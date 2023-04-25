@@ -1,0 +1,16 @@
+{
+    "parent": "minecraft:block/orientable",
+    "textures": {
+      "top": "minecraft:block/pumpkin_top",
+      "front": "minecraft:block/carved_pumpkin",
+      "side": "minecraft:block/pumpkin_side"
+    },
+    "overrides": [
+      {"predicate": {"custom_model_data":1}, "model": "item/hats/fox_ears"},
+      {"predicate": {"custom_model_data":2}, "model": "item/hats/hay_hat"},
+      {"predicate": {"custom_model_data":3}, "model": "item/hats/builder_hat"},
+      {"predicate": {"custom_model_data":4}, "model": "item/hats/yuno_red_crown"},
+      {"predicate": {"custom_model_data":5}, "model": "item/hats/yuno_crown"},
+      {"predicate": {"custom_model_data":6}, "model": "item/hats/pioche"}
+    ]
+  }
