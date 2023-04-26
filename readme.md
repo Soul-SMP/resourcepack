@@ -1,7 +1,7 @@
 # SoulSMP's Resource pack
 
 ## Direct download link
-[here](https://github.com/Soul-SMP/resourcepack/blob/branch/release.zip?raw=true)
+[here](https://github.com/Soul-SMP/resourcepack/blob/main/release.zip?raw=true)
 
 ## SHA-1 Checksum
 [use this tool to check the checksum](https://emn178.github.io/online-tools/sha1_checksum.html)
