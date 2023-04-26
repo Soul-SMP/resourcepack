@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "items/yuno_red_crown",
-		"particle": "items/yuno_red_crown"
+		"0": "item/custom/hats/yuno_red_crown",
+		"particle": "item/custom/hats/yuno_red_crown"
 	},
 	"elements": [
 		{

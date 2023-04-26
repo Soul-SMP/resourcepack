@@ -1,6 +1,6 @@
 {
 	"parent": "minecraft:item/handheld",
 	"textures": {
-	  "layer0": "items/builder_tool"
+	  "layer0": "item/custom/builder_tool"
 	}
   }
